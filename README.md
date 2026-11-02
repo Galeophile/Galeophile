@@ -1,6 +1,6 @@
 # Hi, I'm Muhamad Junaedi 👋
 
-**Veterinarian who builds software.** DVM + AI product engineer.
+**Veterinarian who builds software.** DVM + Fullstack Developer.
 
 📍 Burdur, Türkiye
 
