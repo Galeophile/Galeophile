@@ -31,19 +31,6 @@ I'm part of **Yaqeen Institute for Islamic Research**, where I build and maintai
 - **İnekmatik**: Shared lecture notes, quizzes and case discussions for vet students.
 - **Fagohan** and **Zoonosis Control**: Games for vet students. In one you play a macrophage defending tissue from bacteria. The other is a strategy tile game about zoonotic disease control.
 
-### AI and LLM Tooling
-
-- **Raqib**: Monitors what AI answer engines say about Yaqeen Institute, whether they cite it, and how that changes over time (GEO).
-- **Yaqeen MCP Server**: A Model Context Protocol server that lets AI assistants search and fetch Yaqeen's content, running on AWS Lambda.
-- **Turkish Transcription**: Turns Turkish voice notes into correctly spelled text and flags every word it is unsure about. Runs fully on device.
-
-### Products
-
-- **Serambi**: CRM, marketing email, forms, automation, help desk and giving for Muslim organisations.
-- **Taaruf**: Mobile-first web app for a 100-person team retreat: profiles, icebreakers, photo sharing and session reflections.
-- **Yaqeen web and mobile**: Work on Yaqeen Institute's website (Next.js) and mobile app (Flutter).
-- **EPUB Converter**: Turns print-ready book PDFs into EPUB files.
-
 ---
 
 ## Tech Stack
