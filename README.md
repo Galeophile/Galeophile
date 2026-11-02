@@ -1,4 +1,4 @@
-# Hi, I'm Muhamad Junaedi 👋
+# Hi, I am MJ
 
 **Veterinarian who builds software.** DVM + Fullstack Developer.
 
@@ -12,15 +12,15 @@ I'm a veterinarian who writes code. I build AI tools for veterinary medicine (pa
 
 I'm part of **Yaqeen Institute for Islamic Research**, where I build and maintain products end to end: web, mobile, AI tooling and internal platforms.
 
-- 🩺 Bringing machine learning into everyday veterinary work
-- 🤖 Building with LLMs, MCP and AI-assisted engineering
-- 🛠️ Shipping full products, from database to UI
+- Bringing machine learning into everyday veterinary work
+- Building with LLMs, MCP and AI-assisted engineering
+- Shipping full products, from database to UI
 
 ---
 
 ## What I Build
 
-### 🐄 Veterinary + AI
+### Veterinary + AI
 
 - **mammapath**: Benign or malignant classification of canine mammary tumours from H&E histopathology images, with a review interface for the pathologist. Built for a master's thesis project.
 - **Genomics lab app**: Turns cattle DNA sequencing files (FASTQ) into readable Turkish and English reports: hereditary disease carrier status, milk and coat colour markers, and parentage verification.
@@ -31,18 +31,17 @@ I'm part of **Yaqeen Institute for Islamic Research**, where I build and maintai
 - **İnekmatik**: Shared lecture notes, quizzes and case discussions for vet students.
 - **Fagohan** and **Zoonosis Control**: Games for vet students. In one you play a macrophage defending tissue from bacteria. The other is a strategy tile game about zoonotic disease control.
 
-### 🧠 AI and LLM Tooling
+### AI and LLM Tooling
 
 - **Raqib**: Monitors what AI answer engines say about Yaqeen Institute, whether they cite it, and how that changes over time (GEO).
 - **Yaqeen MCP Server**: A Model Context Protocol server that lets AI assistants search and fetch Yaqeen's content, running on AWS Lambda.
 - **Turkish Transcription**: Turns Turkish voice notes into correctly spelled text and flags every word it is unsure about. Runs fully on device.
 
-### 🚀 Products
+### Products
 
 - **Serambi**: CRM, marketing email, forms, automation, help desk and giving for Muslim organisations.
 - **Taaruf**: Mobile-first web app for a 100-person team retreat: profiles, icebreakers, photo sharing and session reflections.
 - **Yaqeen web and mobile**: Work on Yaqeen Institute's website (Next.js) and mobile app (Flutter).
-- **Banja Luka Halal Guide**: A static guide for Muslim visitors to Banja Luka. SEO and GEO rules are checked at build time.
 - **EPUB Converter**: Turns print-ready book PDFs into EPUB files.
 
 ---
